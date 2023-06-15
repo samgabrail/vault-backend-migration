@@ -1,0 +1,9 @@
+{
+  "datacenter": "dc1",
+  "data_dir": "./data/consul",
+  "log_level": "INFO",
+  "bootstrap_expect": 1,
+  "node_name": "node1",
+  "server": true,
+  "advertise_addr": "172.16.5.4"
+}
